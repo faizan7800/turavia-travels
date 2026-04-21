@@ -50,18 +50,6 @@ export const tours: Tour[] = [
   },
   {
     id: 4,
-    title: 'China Autumn V2',
-    region: 'China',
-    price: 14.4,
-    duration: '9 days',
-    image: './china-autumn2.jpg',
-    rating: 4.7,
-    reviews: 198,
-    highlights: ['Li River cruise', 'Karst mountains', 'Yangshuo village', 'Bamboo rafting'],
-    description: 'A second take on China\'s golden season — cruise the Li River through dramatic karst peaks, drift past traditional villages, and soak in the serene autumn landscapes of Yangshuo.'
-  },
-  {
-    id: 5,
     title: 'Bangkok Dinner Cruise',
     region: 'Thailand',
     price: 2.2,
@@ -73,7 +61,7 @@ export const tours: Tour[] = [
     description: 'Glide along Bangkok\'s iconic Chao Phraya River at night, dining on authentic Thai cuisine while taking in the glittering skyline and illuminated riverside temples.'
   },
   {
-    id: 6,
+    id: 5,
     title: 'Open Trip Hongkong',
     region: 'Hong Kong',
     price: 13.9,
@@ -85,8 +73,8 @@ export const tours: Tour[] = [
     description: 'Marvel at Hong Kong\'s spectacular skyline from Victoria Peak, ride the iconic Star Ferry across the harbour, and explore the vibrant mix of East-meets-West street culture.'
   },
   {
-    id: 7,
-    title: 'Hongkong v2',
+    id: 6,
+    title: 'Hong Kong Start Jakarta',
     region: 'Hong Kong',
     price: 13.9,
     duration: '6 days',
@@ -97,7 +85,7 @@ export const tours: Tour[] = [
     description: 'Dive deeper into Hong Kong with a longer itinerary — visit the giant Tian Tan Buddha on Lantau Island, wander bustling night markets, and feast your way through world-class dim sum spots.'
   },
   {
-    id: 8,
+    id: 7,
     title: 'From Jakarta to Chongqing',
     region: 'China',
     price: 11.9,
@@ -109,7 +97,7 @@ export const tours: Tour[] = [
     description: 'Journey from the Indonesian capital all the way to Chongqing, tracing dramatic river gorges along the Yangtze and diving into China\'s fiery hotpot culture in one of its most unique mountain cities.'
   },
   {
-    id: 9,
+    id: 8,
     title: 'From Medan to China',
     region: 'China',
     price: 13.4,
@@ -121,7 +109,7 @@ export const tours: Tour[] = [
     description: 'Depart from Medan and venture into the heart of China, uncovering ancient temples, centuries-old tea houses, and landscapes that have changed little since the days of the Silk Road.'
   },
   {
-    id: 10,
+    id: 9,
     title: 'Open Trip South Korea',
     region: 'Other',
     price: 5.9,
@@ -133,7 +121,7 @@ export const tours: Tour[] = [
     description: 'Join an open group trip across South Korea\'s highlights — from the ancient royal city of Gyeongju to the coastal buzz of Busan, with plenty of Korean BBQ and cultural experiences along the way.'
   },
   {
-    id: 11,
+    id: 10,
     title: 'From Surabaya to Chongqing',
     region: 'China',
     price: 11.9,

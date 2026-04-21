@@ -18,12 +18,12 @@ export default function TourCard({ tour }: TourCardProps) {
         className="group bg-card rounded-lg overflow-hidden border border-border hover:border-primary/50 transition-all hover:shadow-lg hover:-translate-y-1 cursor-pointer"
         onClick={() => setOpen(true)}
       >
-        <div className="relative overflow-hidden h-48">
-          <img
-            src={tour.image}
-            alt={tour.title}
-            className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-          />
+       <div className="relative overflow-hidden">
+  <img
+    src={tour.image}
+    alt={tour.title}
+    className="w-full object-contain group-hover:scale-105 transition-transform duration-300"
+  />
           <div className="absolute top-3 right-3 bg-primary text-primary-foreground px-3 py-1 rounded-full text-sm font-medium">
             IDR {tour.price} jt
           </div>

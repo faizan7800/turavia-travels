@@ -29,7 +29,7 @@ export default function WhyBookUs() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="mb-12 text-center">
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-4 text-balance">
-            Why Choose Turavia Travels?
+            Why Choose Turavia Travel?
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             We&apos;re committed to creating transformative travel experiences that go beyond sightseeing

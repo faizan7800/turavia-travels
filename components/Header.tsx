@@ -7,7 +7,7 @@ export default function Header() {
             <div className="w-8 h-8 rounded bg-primary flex items-center justify-center">
               <span className="text-primary-foreground font-bold text-sm">T</span>
             </div>
-            <span className="font-bold text-lg text-foreground">Turavia Travels</span>
+            <span className="font-bold text-lg text-foreground">Turavia Travel</span>
           </div>
           <nav className="hidden md:flex items-center gap-8">
             <a href="#tours" className="text-sm text-foreground hover:text-primary transition-colors">Tours</a>

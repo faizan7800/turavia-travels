@@ -7,7 +7,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Turavia Travels - Tours & Adventures',
+  title: 'Turavia Travel - Tours & Adventures',
   description: 'Discover extraordinary travel experiences across Asia with our curated group tours to China, Korea, Thailand, Hong Kong and more.',
   generator: 'fezan-dev',
   // icons: {

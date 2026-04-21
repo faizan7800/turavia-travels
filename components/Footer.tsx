@@ -11,7 +11,7 @@ export default function Footer() {
               <div className="w-8 h-8 rounded bg-primary flex items-center justify-center">
                 <span className="text-primary-foreground font-bold text-sm">T</span>
               </div>
-              <span className="font-bold text-lg">Turavia Travels</span>
+              <span className="font-bold text-lg">Turavia Travel</span>
             </div>
             <p className="text-sm text-card/70 mb-4">
               Creating unforgettable travel experiences across Asia for over 15 years.
@@ -79,7 +79,7 @@ export default function Footer() {
         {/* Divider */}
         <div className="border-t border-card/20 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-card/70">
-            <p>&copy; 2026 Turavia Travels. All rights reserved.</p>
+            <p>&copy; 2026 Turavia Travel. All rights reserved.</p>
             <div className="flex gap-6">
               <a href="#" className="hover:text-card transition-colors">Instagram</a>
               <a href="#" className="hover:text-card transition-colors">Facebook</a>
